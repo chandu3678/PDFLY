@@ -16,7 +16,7 @@ const Github = () => {
 
         <div className="flex flex-col md:flex-row items-center gap-4">
           <a
-            href="https://github.com/your-username/your-repo"
+            href="https://github.com/chandu3678/PDFLY"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-amber-400 text-white font-medium rounded-lg w-60 p-3 text-center hover:bg-amber-500 transition"
@@ -27,7 +27,7 @@ const Github = () => {
             </span>
           </a>
           <a
-            href="https://github.com/chandu3678"
+            href="https://github.com/chandu3678" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-amber-400 text-white font-medium rounded-lg w-44 p-3 text-center hover:bg-amber-500 transition"
