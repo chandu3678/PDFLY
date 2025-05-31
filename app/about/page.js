@@ -14,7 +14,8 @@ const About = () => {
           development and to showcase my skills in my portfolio.
           <br />
           <br />
-          Feel free to try it out or explore the source code if you're curious!
+          Feel free to try it out or explore the source code if you&apos;re
+          curious!
         </p>
       </div>
 

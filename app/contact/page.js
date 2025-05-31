@@ -12,8 +12,8 @@ const Contact = () => {
             <Image
               src="/images/gmailicon.png"
               alt="Gmail Logo"
-              height={100}
-              width={100}
+              height={150}
+              width={150}
             />
           </div>
           <h2 className="text-2xl font-bold mb-2">Get in Touch</h2>
